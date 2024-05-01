@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49a93326-bdce-4d4f-a1b6-b6de55c95904" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.docs.dir/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.docs.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.docs.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.docs.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.docs.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2024-04-23-welcome-to-jekyll.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.namvh1520.github.io.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.namvh1520.github.io.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.namvh1520.github.io.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.namvh1520.github.io.dir/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.idea/.idea.docs.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.idea/.idea.docs.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.idea/.idea.docs.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.idea/.idea.docs.dir/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2024-04-23-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +39,7 @@
       <updated>1713903530744</updated>
       <workItem from="1713903532579" duration="25000" />
       <workItem from="1713904728755" duration="781000" />
-      <workItem from="1714592913312" duration="944000" />
+      <workItem from="1714592913312" duration="1333000" />
     </task>
     <servers />
   </component>
