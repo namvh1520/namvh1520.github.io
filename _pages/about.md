@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: pics.jpg
+  image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -29,7 +29,11 @@ latest_posts:
 
 Hello!
 
-Welcome, thanks for visit the site. The plan is for this sites to host interesting projects that I've worked on, my CV and potentially any interesting blog post that I may make. Feel free to poke around the site a little bit but there may not be much contents for right now. 
+Welcome, thanks for visiting the site. The plan is for this sites to host interesting projects that I've worked on, my CV and potentially any interesting blog post that I may make. Feel free to poke around the site a little bit but there may not be much contents for right now. 
+
+Have a wonderful day!
+
+~ Nam
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
